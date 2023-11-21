@@ -1,2 +1,4 @@
-# lab repo 2023
-Lab works in 2023
+# Practive Work
+Lab work 5 code review for practice work with Zenoviy Veres.
+Task Description:
+Додати клас Country (name, capital, code,  population, area, GDP). Додати enum governmentType: DEMOCRACY, REPUBLIC, AUTOCRACY, … Додати клас Land (name, ...), до якого можуть належати певні країни. Додати функцію підрахунку  густини населення серед певних країн сalculatePopulationDensity (Countries*). Реалізувати метод сортування  за GDP та виводу топу країн з найкращою економікою. Реалізувати метод для вибору країни, котрий залежить від певних параметрів (на свій смак).
