@@ -1,2 +1,2 @@
-# lab-repo-2023
+# lab repo 2023
 Lab works in 2023
