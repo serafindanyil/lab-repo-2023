@@ -1,0 +1,8 @@
+ERROR:root:Exception SortPopulationException: Error sorting population density: unsupported operand type(s) for /: 'str' and 'str'
+ERROR:root:Exception GetTopPopulationDensityException: Error getting top population density: 'NoneType' object is not iterable
+ERROR:root:Exception ChooseCountryException: Error choosing country: object of type 'int' has no len()
+ERROR:root:Exception GetLongestNameException: Error getting longest name country: 'NoneType' object has no attribute 'name'
+ERROR:root:Exception SortPopulationException: Error sorting population density: unsupported operand type(s) for /: 'str' and 'str'
+ERROR:root:Exception GetTopPopulationDensityException: Error getting top population density: 'NoneType' object is not iterable
+ERROR:root:Exception ChooseCountryException: Error choosing country: object of type 'int' has no len()
+ERROR:root:Exception GetLongestNameException: Error getting longest name country: 'NoneType' object has no attribute 'name'
